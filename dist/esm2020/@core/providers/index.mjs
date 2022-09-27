@@ -1,0 +1,10 @@
+/**
+ * @name providers
+ * @description Core providers in ngx-responsive
+ *
+ * @license MIT
+ */
+export * from './responsive-config/index';
+export * from './responsive-state/index';
+export * from './responsive-base/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvQGNvcmUvcHJvdmlkZXJzL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztHQUtHO0FBQ0gsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMseUJBQXlCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcclxuICogQG5hbWUgcHJvdmlkZXJzXHJcbiAqIEBkZXNjcmlwdGlvbiBDb3JlIHByb3ZpZGVycyBpbiBuZ3gtcmVzcG9uc2l2ZVxyXG4gKlxyXG4gKiBAbGljZW5zZSBNSVRcclxuICovXHJcbmV4cG9ydCAqIGZyb20gJy4vcmVzcG9uc2l2ZS1jb25maWcvaW5kZXgnO1xyXG5leHBvcnQgKiBmcm9tICcuL3Jlc3BvbnNpdmUtc3RhdGUvaW5kZXgnO1xyXG5leHBvcnQgKiBmcm9tICcuL3Jlc3BvbnNpdmUtYmFzZS9pbmRleCc7XHJcbiJdfQ==

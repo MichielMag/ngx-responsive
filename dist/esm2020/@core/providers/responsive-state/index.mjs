@@ -1,0 +1,8 @@
+/**
+ * @name responsive-state
+ * @description Core responsive-state provider in ngx-responsive
+ *
+ * @license MIT
+ */
+export * from './responsive-state';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9zcmMvQGNvcmUvcHJvdmlkZXJzL3Jlc3BvbnNpdmUtc3RhdGUvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7O0dBS0c7QUFDSCxjQUFjLG9CQUFvQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIEBuYW1lIHJlc3BvbnNpdmUtc3RhdGVcclxuICogQGRlc2NyaXB0aW9uIENvcmUgcmVzcG9uc2l2ZS1zdGF0ZSBwcm92aWRlciBpbiBuZ3gtcmVzcG9uc2l2ZVxyXG4gKlxyXG4gKiBAbGljZW5zZSBNSVRcclxuICovXHJcbmV4cG9ydCAqIGZyb20gJy4vcmVzcG9uc2l2ZS1zdGF0ZSc7XHJcbiJdfQ==

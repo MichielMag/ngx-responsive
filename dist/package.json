@@ -2,16 +2,6 @@
   "name": "@viablelogic/ngx-responsive",
   "version": "10.0.1",
   "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 9",
-  "scripts": {
-    "start": "ng serve --aot",
-    "build": "ng-packagr -p ng-package.json",
-    "build:watch": "onchange -i -k 'src/**/*.ts' -- npm run build",
-    "compodoc": "compodoc -p tsconfig.json",
-    "compodoc:serve": "compodoc -s",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hassanasad/ngx-responsive.git"
@@ -63,32 +53,27 @@
   },
   "homepage": "https://github.com/hassanasad/ngx-responsive",
   "private": false,
-  "devDependencies": {
-    "@angular-devkit/build-angular": "^14.1.3",
-    "@angular/animations": "^14.1.3",
-    "@angular/cli": "^14.1.3",
-    "@angular/common": "^14.1.3",
-    "@angular/compiler": "^14.1.3",
-    "@angular/compiler-cli": "^14.1.3",
-    "@angular/core": "^14.1.3",
-    "@angular/language-service": "^14.1.3",
-    "@angular/platform-browser": "^14.1.3",
-    "@angular/platform-browser-dynamic": "^14.1.3",
-    "@angular/platform-server": "^14.1.3",
-    "@compodoc/compodoc": "^1.1.19",
-    "@nguniversal/express-engine": "^14.1.0",
-    "@types/node": "~8.9.4",
-    "copyfiles": "^2.4.1",
-    "cpr": "^3.0.1",
-    "del-cli": "^5.0.0",
-    "ng-packagr": "^14.1.0",
-    "onchange": "^7.1.0",
-    "protractor": "~7.0.0",
-    "source-map-explorer": "^2.5.2",
-    "ts-loader": "^9.3.1",
-    "ts-node": "~10.9.1",
-    "tslint": "~6.1.3",
-    "typescript": "~4.6.4",
-    "zone.js": "~0.11.8"
+  "module": "fesm2015/viablelogic-ngx-responsive.mjs",
+  "es2020": "fesm2020/viablelogic-ngx-responsive.mjs",
+  "esm2020": "esm2020/viablelogic-ngx-responsive.mjs",
+  "fesm2020": "fesm2020/viablelogic-ngx-responsive.mjs",
+  "fesm2015": "fesm2015/viablelogic-ngx-responsive.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/viablelogic-ngx-responsive.mjs",
+      "es2020": "./fesm2020/viablelogic-ngx-responsive.mjs",
+      "es2015": "./fesm2015/viablelogic-ngx-responsive.mjs",
+      "node": "./fesm2015/viablelogic-ngx-responsive.mjs",
+      "default": "./fesm2020/viablelogic-ngx-responsive.mjs"
+    }
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^2.3.0"
   }
 }

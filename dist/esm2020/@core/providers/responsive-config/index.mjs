@@ -1,0 +1,8 @@
+/**
+ * @name responsive-config
+ * @description Core responsive-config provider in ngx-responsive
+ *
+ * @license MIT
+ */
+export * from './responsive-config';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9zcmMvQGNvcmUvcHJvdmlkZXJzL3Jlc3BvbnNpdmUtY29uZmlnL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztHQUtHO0FBQ0gsY0FBYyxxQkFBcUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxyXG4gKiBAbmFtZSByZXNwb25zaXZlLWNvbmZpZ1xyXG4gKiBAZGVzY3JpcHRpb24gQ29yZSByZXNwb25zaXZlLWNvbmZpZyBwcm92aWRlciBpbiBuZ3gtcmVzcG9uc2l2ZVxyXG4gKlxyXG4gKiBAbGljZW5zZSBNSVRcclxuICovXHJcbmV4cG9ydCAqIGZyb20gJy4vcmVzcG9uc2l2ZS1jb25maWcnO1xyXG4iXX0=

@@ -1,0 +1,17 @@
+/**
+ * @name types
+ * @description Core types in ngx-responsive
+ *
+ * @license MIT
+ */
+export * from './linux.types';
+export * from './windows.types';
+export * from './mobile.types';
+export * from './tablet.types';
+export * from './os-systems.types';
+export * from './game-devices.types';
+export * from './smart-tv.types';
+export * from './bot.types';
+export * from './browser-names.types';
+export * from './ie-versions.types';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvQGNvcmUvdHlwZXMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7O0dBS0c7QUFDSCxjQUFjLGVBQWUsQ0FBQztBQUM5QixjQUFjLGlCQUFpQixDQUFDO0FBQ2hDLGNBQWMsZ0JBQWdCLENBQUM7QUFDL0IsY0FBYyxnQkFBZ0IsQ0FBQztBQUMvQixjQUFjLG9CQUFvQixDQUFDO0FBQ25DLGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyxrQkFBa0IsQ0FBQztBQUNqQyxjQUFjLGFBQWEsQ0FBQztBQUM1QixjQUFjLHVCQUF1QixDQUFDO0FBQ3RDLGNBQWMscUJBQXFCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcclxuICogQG5hbWUgdHlwZXNcclxuICogQGRlc2NyaXB0aW9uIENvcmUgdHlwZXMgaW4gbmd4LXJlc3BvbnNpdmVcclxuICpcclxuICogQGxpY2Vuc2UgTUlUXHJcbiAqL1xyXG5leHBvcnQgKiBmcm9tICcuL2xpbnV4LnR5cGVzJztcclxuZXhwb3J0ICogZnJvbSAnLi93aW5kb3dzLnR5cGVzJztcclxuZXhwb3J0ICogZnJvbSAnLi9tb2JpbGUudHlwZXMnO1xyXG5leHBvcnQgKiBmcm9tICcuL3RhYmxldC50eXBlcyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vb3Mtc3lzdGVtcy50eXBlcyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vZ2FtZS1kZXZpY2VzLnR5cGVzJztcclxuZXhwb3J0ICogZnJvbSAnLi9zbWFydC10di50eXBlcyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vYm90LnR5cGVzJztcclxuZXhwb3J0ICogZnJvbSAnLi9icm93c2VyLW5hbWVzLnR5cGVzJztcclxuZXhwb3J0ICogZnJvbSAnLi9pZS12ZXJzaW9ucy50eXBlcyc7XHJcbiJdfQ==

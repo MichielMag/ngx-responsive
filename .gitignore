@@ -7,7 +7,7 @@ $ cat .gitignore
 *.tgz
 
 # compiled output
-/dist
+
 /tmp
 /deploy
 /screenshots

@@ -1,0 +1,20 @@
+/**
+ * @name constants
+ * @description Core constants in ngx-responsive
+ *
+ * @license MIT
+ */
+export * from './linux.constants';
+export * from './windows.constants';
+export * from './tablet.constants';
+export * from './mobile.constants';
+export * from './os-systems.constants';
+export * from './reg-expressions.constants';
+export * from './game-devices.constants';
+export * from './smart-tv.constants';
+export * from './generic-bots.constants';
+export * from './browser-names.constants';
+export * from './ie-versions.constants';
+export * from './user-agent.constants';
+export * from './default-breackpoints.constants';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvQGNvcmUvY29uc3RhbnRzL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7OztHQUtHO0FBQ0gsY0FBYyxtQkFBbUIsQ0FBQztBQUNsQyxjQUFjLHFCQUFxQixDQUFDO0FBQ3BDLGNBQWMsb0JBQW9CLENBQUM7QUFDbkMsY0FBYyxvQkFBb0IsQ0FBQztBQUNuQyxjQUFjLHdCQUF3QixDQUFDO0FBQ3ZDLGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYywwQkFBMEIsQ0FBQztBQUN6QyxjQUFjLHNCQUFzQixDQUFDO0FBQ3JDLGNBQWMsMEJBQTBCLENBQUM7QUFDekMsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLHlCQUF5QixDQUFDO0FBQ3hDLGNBQWMsd0JBQXdCLENBQUM7QUFDdkMsY0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxyXG4gKiBAbmFtZSBjb25zdGFudHNcclxuICogQGRlc2NyaXB0aW9uIENvcmUgY29uc3RhbnRzIGluIG5neC1yZXNwb25zaXZlXHJcbiAqXHJcbiAqIEBsaWNlbnNlIE1JVFxyXG4gKi9cclxuZXhwb3J0ICogZnJvbSAnLi9saW51eC5jb25zdGFudHMnO1xyXG5leHBvcnQgKiBmcm9tICcuL3dpbmRvd3MuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi90YWJsZXQuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi9tb2JpbGUuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi9vcy1zeXN0ZW1zLmNvbnN0YW50cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vcmVnLWV4cHJlc3Npb25zLmNvbnN0YW50cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vZ2FtZS1kZXZpY2VzLmNvbnN0YW50cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vc21hcnQtdHYuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi9nZW5lcmljLWJvdHMuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi9icm93c2VyLW5hbWVzLmNvbnN0YW50cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vaWUtdmVyc2lvbnMuY29uc3RhbnRzJztcclxuZXhwb3J0ICogZnJvbSAnLi91c2VyLWFnZW50LmNvbnN0YW50cyc7XHJcbmV4cG9ydCAqIGZyb20gJy4vZGVmYXVsdC1icmVhY2twb2ludHMuY29uc3RhbnRzJztcclxuXHJcbiJdfQ==
